@@ -28,10 +28,6 @@ A collection of lightweight PHP snippets, optimization techniques, and best prac
 | File | Description |
 |------|-------------|
 | [`performance-checklist.md`](performance-checklist.md) | Comprehensive step-by-step performance audit checklist |
-| [`core-web-vitals-guide.md`](core-web-vitals-guide.md) | How to optimize for Largest Contentful Paint (LCP), First Input Delay (FID), and Cumulative Layout Shift (CLS) |
-| [`hosting-recommendations.md`](hosting-recommendations.md) | Recommended WordPress hosting providers for different budgets |
-| [`caching-strategies.md`](caching-strategies.md) | Page caching, browser caching, and object caching explained |
-| [`image-optimization.md`](image-optimization.md) | Best practices for image formats, compression, and delivery |
 
 ### Sample .htaccess Rules
 | File | Description |
